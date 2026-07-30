@@ -19,7 +19,9 @@
 
 ## Selected Application
 
-**AgriLink** — an online shopping / e-commerce mobile application connecting smallholder farmers around Kigali directly to urban buyers, cutting out middlemen.
+**AgriLink Figma Link:** https://www.figma.com/design/IfXTkpGSmVUgLobUUUafr1/Agrilink-Prototype?node-id=0-1&t=iApNPH8cNkE7j7u0-1
+**AgriLink Github repo Link:**https://github.com/hprince01/E-commerce-Agri-link--figma-prototype/edit/main
+
 
 ---
 
@@ -101,11 +103,11 @@ Low-fidelity wireframes were created in Figma as simple grayscale structural lay
 1. Login/Register page
 2. Home page (browse/search)
 3. Product detail page
-4. Cart / Checkout page
+4. Cart
+5. Checkout page
 
 These wireframes focused purely on layout, hierarchy, and navigation structure, without color, imagery, or final typography, to validate the flow before visual design began.
 
-*(See "wireframes" folder in the submitted project assets.)*
 
 ---
 
