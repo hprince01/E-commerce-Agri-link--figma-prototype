@@ -20,7 +20,8 @@
 ## Selected Application
 
 **AgriLink Figma Link:** https://www.figma.com/design/IfXTkpGSmVUgLobUUUafr1/Agrilink-Prototype?node-id=0-1&t=iApNPH8cNkE7j7u0-1
-**AgriLink Github repo Link:**https://github.com/hprince01/E-commerce-Agri-link--figma-prototype/edit/main
+
+**AgriLink Github repo Link:** https://github.com/hprince01/E-commerce-Agri-link--figma-prototype/edit/main
 
 
 ---
